@@ -1,86 +1,71 @@
-# OMDB Movie Search Project
+# Metehan Emir Özkaya
 
-## How to Set Up Your Repository
+Third-year student of Electrical and Electronics Engineering at Fırat University Faculty of Engineering.
 
-**WARNING**: This is a template project. Do not fork this repository.
+## About
 
-Please follow the visual steps below to create and set up the project repository on your own GitHub profile.
+I am a third-year Electrical and Electronics Engineering student at Fırat University Faculty of Engineering.
 
-1. Click the **"Use this template"** button at the top right of this page.
+## Experience
 
-<img width="1920" height="1080" alt="Use this template example" src="https://github.com/user-attachments/assets/137c0f6c-bc6c-4584-8752-02c067051438" />
-<br><br>
+### First Internship
 
-2. Select **"Create a new repository"** to generate your own public repository for this task.
+**EÜAŞ (Elektrik Üretim Anonim Şirketi)**  
+Intern  
+July 2025 - August 2025  
+Keban, Elazığ, Türkiye
 
-<img width="1920" height="1080" alt="Create a new repository" src="https://github.com/user-attachments/assets/87b9032e-6e10-4679-88bb-c42a98894edf" />
-<br><br>
+I completed my first internship at the Keban Dam and Hydroelectric Power Plant.
 
-3. Name your repository as **"omdb-project"** and click the **"Create repository"** button.
+## Education
 
-<img width="1920" height="1080" alt="Create repository" src="https://github.com/user-attachments/assets/dd808d69-6ade-4903-8f77-831b643dbdff" />
-<br><br>
+### Fırat University
 
-Upload all of your solutions to `github.com/yourusername/omdb-project`.
+Bachelor's Degree, Electrical and Electronics Engineering  
+2023 - 2027  
+Faculty of Engineering
 
----
+### Ahmet Kabaklı Science High School
 
-## Overview
+2018 - 2022  
+Graduation grade: 91.64
 
-This project is designed to evaluate your coding skills in web development. You are required to build a simple web application that consumes the [OMDB API](http://www.omdbapi.com/).
+## Licenses and Certifications
 
-* The application must be a fully responsive **Single Page Application (SPA)** and should display movie details such as **title, year, genre, director, and poster**.
-* The application must be written using **HTML, CSS, and JavaScript**.
-* If your project meets all the requirements, you may extend it with additional functionalities.
-* After development, you must deploy the project using [GitHub Pages](https://pages.github.com). **Projects that are not deployed to GitHub Pages will not be evaluated and will receive 0 points.**
+### Milli Yetkinlik Hamlesi Kampı
 
-You must **create your own repository using this template** and upload your work there. 
-Do **not** attempt to push changes directly to this repository or any of its original branches.
+Issued by SSB - Presidency of Defence Industries  
+Issued May 2026
 
----
+Skills: Teamwork, Presentation Development
 
-## Functional Requirements
+### English Time Certificates
 
-1. **Movie Search Input**
-   - Users must be able to enter a movie name and trigger a search.
-   - A search box and button are sufficient, but adding well-composed UI elements (e.g., filters similar to sahibinden.com) will earn bonus points.
+Issued by English Time  
+Issued May 2025
 
-2. **Display Movie Details**
-   - Show at least: Title, Year, Genre, Director, and Poster image.
-   - The design is up to you.
+Skills: English, English Grammar
 
-3. **Error Handling**
-   - If the movie is not found or the API returns an error, display a clear message to the user.
-   - Unhandled errors will result in point deductions.
+## Skills
 
-4. **Multiple Searches**
-   - Users should be able to perform multiple searches without refreshing the page.
-   - If the page is refreshed, the last search view should be retained (e.g., using LocalStorage or URL parameters).
+- English Grammar
+- Presentation Development
+- Teamwork
+- Oscilloscope
+- Laboratory Equipment
 
-5. **Backend Proxy (Optional)**
-   - If you implement a backend, it should handle API requests and return clean JSON to the frontend.
+## Projects
 
----
+### OMDb Movie Search Project
 
-## Non-Functional Requirements
+Repository: [omdb-project](https://github.com/OzkayaMetehan/omdb-project)  
+Live Demo: [OMDb Movie Search](https://ozkayametehan.github.io/omdb-project/)
 
-1. **Performance**
-   - API calls should be efficient. Avoid unnecessary repeated requests.
+### Telecommunications Project
 
-2. **Usability**
-   - The interface should be simple, intuitive, and user-friendly.
-   - The design is up to you.
+Repository: [telco-project](https://github.com/OzkayaMetehan/telco-project)
 
-3. **Portability**
-   - The application should work across modern browsers and be responsive for different screen sizes.
+## Links
 
-4. **Maintainability**
-   - Code should be modular, well-documented, and easy to extend.
-
----
-
-## Deliverables & Submission
-
-Once you have completed the project, ensure you have the following ready:
-- A **public GitHub repository** containing your project code (created via the template).
-- A **hosted version** of the project deployed on GitHub Pages.
+- LinkedIn: [Metehan Emir Özkaya](https://www.linkedin.com/in/metehan-emir-%C3%B6zkaya-b98912363)
+- GitHub: [OzkayaMetehan](https://github.com/OzkayaMetehan)
